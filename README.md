@@ -6,6 +6,8 @@ A kernel module for the Nintendo Licensed pro-controller by Hori.
 
 This is a (slightly) modified version of the [driver for the original Nintendo pro-controller](https://github.com/DanielOgorchock/linux).
 
+See discussion [here](https://github.com/DanielOgorchock/linux/issues/10).
+
 ## Detection
 
 type `sudo dmesg` after connecting the controller via bluetooth or usb, you should get something like
