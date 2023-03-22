@@ -1,6 +1,6 @@
 # dkms-hid-nintendolic
 
-A kernel module for the Nintendo Licensed pro-controller by Hori.
+A linux kernel module for the Nintendo Licensed pro-controller by Hori.
 
 ![image](https://user-images.githubusercontent.com/4388859/226704191-fa25b50f-6b8e-4e39-9f54-60c813d5e02a.png)
 
