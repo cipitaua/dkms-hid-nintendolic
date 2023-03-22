@@ -42,7 +42,7 @@ sudo dkms install nintendolic -v 3.2
 
 ## Features
 
-- almost everything works, including gyroscope
+- Note that these gamepads work fine also with the hid-generic driver, except for the gyroscope and the leds are always blinking. The hid-nintendolic driver adds gyroscope support and fixes the leds blinking.
 
 ## Known issues
 
