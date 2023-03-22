@@ -51,7 +51,7 @@ sudo dkms install nintendolic -v 3.2
 
 ## SDL
 
-- to map the xpad buttons through SDL, put the following in `/etc/profile.d/sdl2-gamecontroller.sh`, and reboot:
+- to map the buttons through SDL, put the following in `/etc/profile.d/sdl2-gamecontroller.sh`, and reboot:
 ```
 #!/bin/bash
 # Creates a system-wide SDL2 mapping.
