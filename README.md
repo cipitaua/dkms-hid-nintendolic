@@ -50,7 +50,7 @@ sudo dkms install nintendolic -v 3.2
 - to map the xpad buttons through SDL, put the following in `/etc/profile.d/sdl2-gamecontroller.sh`, and reboot:
 ```
 #!/bin/bash
-# Creates a system-wide SDL2 mapping for any device that mimics xpad.
+# Creates a system-wide SDL2 mapping.
 export SDL_GAMECONTROLLERCONFIG="050000000d0f0000f6000000018000003853246,Nintendo Switch Pro Controller,platform:Linux,a:b0,b:b1,x:b2,y:b3,back:b9,start:b10,guide:b11,leftshoulder:b5,rightshoulder:b6,leftstick:b12,rightstick:b13,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b7,righttrigger:b8,dpup:h0.1,dpleft:h0.8,dpdown:h0.4,dpright:h0.2,"
 ```
 
