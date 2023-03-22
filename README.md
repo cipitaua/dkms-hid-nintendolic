@@ -60,4 +60,4 @@ export SDL_GAMECONTROLLERCONFIG="050000000d0f0000f6000000018000003853246,Nintend
 
 - [joycond-cemuhook](https://github.com/joaorb64/joycond-cemuhook): Support for cemuhook's UDP protocol for gyroscope
 - [DSU pad test](https://files.sshnuke.net/PadTest_1011.zip): cemuhook gyroscope test, works well under wine, screenshot [here](https://raw.githubusercontent.com/marcowindt/WiiMoteDSU/master/windows-pad-test.gif)
-- [Antimicrox](https://github.com/AntiMicroX/antimicrox): tests buttons and provides SDL string
+- [Antimicrox](https://github.com/AntiMicroX/antimicrox): tests buttons and provides the SDL string
