@@ -2,7 +2,9 @@
 
 A linux kernel module for the Nintendo Licensed pro-controller by Hori.
 
-![image](https://user-images.githubusercontent.com/4388859/226704191-fa25b50f-6b8e-4e39-9f54-60c813d5e02a.png)
+![hori](https://user-images.githubusercontent.com/4388859/226832074-9f6e5272-bb01-4d33-93dc-4c0439ab502a.png)
+
+
 
 This is a (slightly) modified version of the [driver for the original Nintendo pro-controller](https://github.com/DanielOgorchock/linux).
 
