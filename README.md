@@ -13,7 +13,9 @@ type `sudo dmesg` after connecting the controller via bluetooth or usb, you shou
 [ 1375.472751] input: Lic Pro Controller as /devices/virtual/misc/uhid/0005:0F0D:00F6.0003/input/input23
 ```
 Where
+
 `0F0D` is the vendor ID
+
 `00F6` is the model ID
 
 In alternative, you can get the same IDs by `lsusb` after connecting via usb:
