@@ -46,7 +46,7 @@ sudo dkms install nintendolic -v 3.2
 
 ## Known issues
 
-- rumble is not working
+- rumble is not working (any help is welcome)
 - screenshot button may not work, depending on the app
 
 ## SDL
